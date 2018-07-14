@@ -38,7 +38,7 @@ a pytorch implement of shuffleNet on cifar-10
 
   * the results is comparable with resnet 20 which have the similar number of parameters:
 
-    > [resnet 20][https://arxiv.org/abs/1512.03385]	params: 0.27M	 accuracy: 91.25%
+    > [resnet 20](https://arxiv.org/abs/1512.03385)	params: 0.27M	 accuracy: 91.25%
 
 * more logs and the best weights can be get in folder `bak` 
 
